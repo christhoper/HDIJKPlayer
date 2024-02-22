@@ -1,0 +1,16 @@
+PODS:
+  - HDIJKPlayer (0.1.0)
+
+DEPENDENCIES:
+  - HDIJKPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  HDIJKPlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HDIJKPlayer: fb78b0cbdaba6bc550f28ecae05f70e81fc9cc77
+
+PODFILE CHECKSUM: 1e54aee99f81995c5662bb6f91b9a07139a2619b
+
+COCOAPODS: 1.15.2

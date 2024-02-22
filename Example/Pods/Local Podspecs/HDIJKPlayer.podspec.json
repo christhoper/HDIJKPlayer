@@ -1,0 +1,41 @@
+{
+  "name": "HDIJKPlayer",
+  "version": "0.1.0",
+  "summary": "方便快速集成IJK库",
+  "description": "快速方便集成IJK库，后期考虑将控件也加上去",
+  "homepage": "https://github.com/christhoper/HDIJKPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hendy": "hdj309875551@163.com"
+  },
+  "source": {
+    "git": "https://github.com/christhoper/HDIJKPlayer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "vendored_frameworks": "HDIJKPlayer/IJKMediaFramework.framework",
+  "frameworks": [
+    "AudioToolbox",
+    "AVFoundation",
+    "CoreGraphics",
+    "CoreMedia",
+    "CoreVideo",
+    "MobileCoreServices",
+    "OpenGLES",
+    "QuartzCore",
+    "VideoToolbox",
+    "Foundation",
+    "UIKit",
+    "MediaPlayer"
+  ],
+  "libraries": [
+    "bz2",
+    "z",
+    "stdc++"
+  ]
+}

@@ -1,0 +1,6 @@
+framework module HDIJKPlayer {
+  umbrella header "HDIJKPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}

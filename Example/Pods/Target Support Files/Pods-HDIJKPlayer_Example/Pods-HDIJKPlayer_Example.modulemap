@@ -1,0 +1,6 @@
+framework module Pods_HDIJKPlayer_Example {
+  umbrella header "Pods-HDIJKPlayer_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
